@@ -2,7 +2,7 @@
 
 # 物理实验监控数据集-PEVD
 
-<img src="README.assets/pevd.png" alt="pevd" style="zoom: 45%;" />
+<img src="img/pevd.png" alt="pevd" style="zoom: 45%;" />
 
 <div align="center"><img src="https://img.shields.io/badge/Version-1.0--alpha-brightgreen"> 
 
@@ -14,19 +14,19 @@ PEVD数据集包含4个精心构建的子集，每个子集都支持一系列特
 
 - PEVD-AR：记录了四项物理实验的620个长视频，涵盖了32类动作的3873个动作片段，平均每个片段时长20秒，视频帧数为30FPS。这一子集为动作识别、动作分割、行为预测等视频行为研究提供了宝贵的资源。
 
-  <img src="README.assets/Fig. 1.jpg" alt="Fig. 1" style="zoom:25%;" />
+  <img src="img/Fig. 1.jpg" alt="Fig. 1" style="zoom:25%;" />
 
 - PEVD-DET：包含16936张实验图片，涵盖了13.7万个物体实例常规样本、2万个遮挡样本以及1万个交互样本。这一子集支持目标检测、遮挡检测、人机交互检测、场景图生成以及图像修复等计算机视觉任务。
 
-  <img src="README.assets/图4-1.jpg" alt="图4-1" style="zoom: 25%;" />
+  <img src="img/图4-1.jpg" alt="图4-1" style="zoom: 25%;" />
 
 - PEVD-SG：包含约5千张图片，这些图片进行了细粒度的实例分割标注，涉及操作学生的人体部位以及物理实验器材的像素级类别信息，支持实例分割、语义分割等研究。
 
-  <img src="README.assets/Fig. 3.jpg" alt="图4-1" style="zoom: 5%;" />
+  <img src="img/Fig. 3.jpg" alt="图4-1" style="zoom: 5%;" />
 
 - PEVD-MM：目前正在开发中，目标是整合实验过程的文本和图像数据，以支持多模态研究，包括图像描述生成、文本描述生成、跨模态对齐等高级视觉任务。
 
-  <img src="README.assets/Fig. 2.jpg" alt="Fig. 2" style="zoom:15%;" />
+  <img src="img/Fig. 2.jpg" alt="Fig. 2" style="zoom:15%;" />
 
 
 
