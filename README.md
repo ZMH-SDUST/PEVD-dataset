@@ -1,6 +1,6 @@
 
 
-# PhysLab
+# PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments
 
 <img src="img/pevd.png" alt="pevd" style="zoom: 45%;" />
 
