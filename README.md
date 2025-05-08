@@ -10,7 +10,7 @@
 
 The project built and opened the industry's first physical experiment process video dataset that integrates multi-modal and multi-scenario applications - PhysLab. The dataset covers multiple key research areas such as behavior recognition, target detection, instance segmentation, human-computer interaction detection, scene graph generation, etc., and has carried out comprehensive and detailed data annotation in each field.
 
-The PEVD dataset contains 4 carefully constructed subsets, each of which supports a range of specific research areas. The specific introduction is as follows:
+The PhysLab dataset contains 4 carefully constructed subsets, each of which supports a range of specific research areas. The specific introduction is as follows:
 
 - AR: 620 long videos of four physical experiments are recorded, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. This subset provides valuable resources for video behavior research such as action recognition, action segmentation, and behavior prediction.
 
