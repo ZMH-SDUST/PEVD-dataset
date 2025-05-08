@@ -18,7 +18,7 @@ The PEVD dataset contains 4 carefully constructed subsets, each of which support
 
 - DET: Contains 16,936 experimental images, covering 137,000 regular samples of object instances, 20,000 occluded samples, and 10,000 interactive samples. This subset supports computer vision tasks such as target detection, occlusion detection, human-computer interaction detection, scene graph generation, and image restoration.
 
-  <img src="img/图4-1.jpg" alt="图4-1" style="zoom: 25%;" />
+  <img src="img/intro.jpg" alt="图4-1" style="zoom: 25%;" />
 
 - SG: Contains about 5,000 images, which are annotated with fine-grained instance segmentation, involving pixel-level category information of human body parts of operating students and physical experimental equipment, supporting instance segmentation, semantic segmentation and other research.
 
