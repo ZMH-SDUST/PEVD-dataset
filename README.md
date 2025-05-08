@@ -8,7 +8,7 @@
 
 ## 🌐Introduction
 
-This project has built and opened up the industry's first physical experiment monitoring dataset that integrates multi-modal and multi-scenario applications - PhysLab. This dataset covers multiple key research areas, including behavior recognition, target detection, instance segmentation, human-computer interaction detection, and scene graph generation, and has carried out comprehensive and detailed data annotation for each field.
+The project built and opened the industry's first physical experiment process video dataset that integrates multi-modal and multi-scenario applications - PhysLab. The dataset covers multiple key research areas such as behavior recognition, target detection, instance segmentation, human-computer interaction detection, scene graph generation, etc., and has carried out comprehensive and detailed data annotation in each field.
 
 The PEVD dataset contains 4 carefully constructed subsets, each of which supports a range of specific research areas. The specific introduction is as follows:
 
@@ -16,11 +16,11 @@ The PEVD dataset contains 4 carefully constructed subsets, each of which support
 
   <img src="img/Fig. 1.jpg" alt="Fig. 1" style="zoom:25%;" />
 
-- DET: Contains 16,936 experimental images, covering 137,000 regular samples of object instances, 20,000 occluded samples, and 10,000 interactive samples. This subset supports computer vision tasks such as target detection, occlusion detection, human-computer interaction detection, scene graph generation, and image restoration.
+- DET: contains 4,500 experimental images, covering conventional boundary annotations of object instances, occlusion annotations, human-object interaction annotations, and scene map annotations.
 
   <img src="img/intro.jpg" alt="图4-1" style="zoom: 25%;" />
 
-- SG: Contains about 5,000 images, which are annotated with fine-grained instance segmentation, involving pixel-level category information of human body parts of operating students and physical experimental equipment, supporting instance segmentation, semantic segmentation and other research.
+- SG: Contains about 3097 images, which are annotated with fine-grained instance segmentation, involving pixel-level category information of human body parts of operating students and physical experimental equipment, supporting instance segmentation, semantic segmentation and other research.
 
   <img src="img/Fig. 3.jpg" alt="图4-1" style="zoom: 5%;" />
 
