@@ -28,7 +28,16 @@ The PhysLab dataset contains 4 carefully constructed subsets, each of which supp
 
   <img src="img/Fig. 2.jpg" alt="Fig. 2" style="zoom:15%;" />
 
+## Note
+
+At present, we have completely completed the annotation of action classification, temporal action detection, action recognition, object detection, occlusion detection, human-object interaction detection, and instance segmentation related research. The annotation of visual text alignment is still in progress. We will release and provide benchmark performance in a timely manner.
+
+At present, we are integrating multiple types of annotations and achieving accurate alignment between them. We have provided some samples for reference. The complete data is expected to be released within three months. Please continue to follow our dynamics.
+
+At present, we are supplementing data samples of six other experimental types and building collection devices for chemical and biological experiments.
 
 ## Disclaimer
 
 The physical experiment dataset provided by this project is collected and annotated based on specific experimental scenarios and methods, but the dataset may contain a certain degree of deviation, incompleteness or erroneous information. Therefore, this dataset is for reference and research purposes only, and its absolute accuracy and applicability are not guaranteed. The results of analysis, modeling or other research activities using this dataset may contain errors or deviations and cannot be directly used for practical applications or decision-making. This project is not responsible for any consequences or losses arising from the use of the dataset. Users should bear their own risks when using the dataset and conduct necessary verification and validation of the data and research results.
+
+
