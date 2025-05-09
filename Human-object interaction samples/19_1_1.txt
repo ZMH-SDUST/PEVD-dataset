@@ -1,0 +1,49 @@
+{
+    "HOI": [
+        {
+            "subject_id": 1,
+            "verb": 1,
+            "object_id": 3
+        }
+    ],
+    "SGG_SR": [
+        {
+            "object_id1": 5,
+            "spatial_relationship":6 ,
+            "object_id2": 6
+        },
+        {
+            "object_id1": 3,
+            "spatial_relationship": 1,
+            "object_id2": 4
+        },
+        {
+            "object_id1": 1,
+            "spatial_relationship":1 ,
+            "object_id2": 4
+        },
+        {
+            "object_id1": 4,
+            "spatial_relationship":5 ,
+            "object_id2": 7
+        }
+    ],
+    "SGG_AS": [
+        {
+            "object_id": 3,
+            "attribute_status": 2
+        },
+        {
+            "object_id": 3,
+            "attribute_status":11 
+        },
+        {
+            "object_id": 4,
+            "attribute_status": 7
+        },
+        {
+            "object_id": 7,
+            "attribute_status": 9
+        }
+    ]
+}

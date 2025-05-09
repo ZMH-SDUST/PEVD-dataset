@@ -1,0 +1,39 @@
+{
+    "HOI": [
+        {
+            "subject_id": 1,
+            "verb": 9,
+            "object_id":2 
+        }
+    ],
+    "SGG_SR": [
+        {
+            "object_id1":6 ,
+            "spatial_relationship": 1,
+            "object_id2": 7
+        },
+        {
+            "object_id1":9 ,
+            "spatial_relationship": 4,
+            "object_id2": 3
+        }
+    ],
+    "SGG_AS": [
+        {
+            "object_id": 3,
+            "attribute_status":1 
+        },
+        {
+            "object_id": 4,
+            "attribute_status":1 
+        },
+        {
+            "object_id":11 ,
+            "attribute_status": 7
+        },
+        {
+            "object_id": 12,
+            "attribute_status":5 
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "HOI": [
+        {
+            "subject_id": 1,
+            "verb":4 ,
+            "object_id": 2
+        }
+    ],
+    "SGG_SR": [
+        {
+            "object_id1": 2,
+            "spatial_relationship":1 ,
+            "object_id2": 1
+        },
+        {
+            "object_id1": 4,
+            "spatial_relationship": 2,
+            "object_id2": 3
+        }
+    ],
+    "SGG_AS": [
+        {
+            "object_id": 2,
+            "attribute_status": 11
+        },
+        {
+            "object_id":3 ,
+            "attribute_status": 11
+        },
+        {
+            "object_id": 4,
+            "attribute_status": 7
+        }
+    ]
+}
