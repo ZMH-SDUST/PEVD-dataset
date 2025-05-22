@@ -6,7 +6,9 @@
 
 ## 🌐 Introduction
 
-PhysLab is comprehensively annotated and supports a wide range of computer vision research tasks. Benchmark results have been established for eight representative tasks: temporal action proposal, action classification, action alignment, action segmentation, object detection, occlusion detection, instance segmentation, and human-object interaction detection.
+**PhysLab is the first video dataset for visual interpretation of physics experimental processes!**
+**We have comprehensively annotated PhysLab across multiple aspects to support a wide range of computer vision research!**
+**we have established benchmark results for eight fundamental vision tasks on PhysLab for reference and comparison!**
 
 ## 🔎 Temporal Annotations
 
@@ -18,13 +20,13 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
 
 ### Experimental Results.
 
-**temporal action proposal**
+- **temporal action proposal**
 
-**Action Classification**
+- **Action Classification**
 
-**temporal action proposal**
+- **temporal action proposal**
 
-**temporal action proposal**
+- **temporal action proposal**
 
 
 
