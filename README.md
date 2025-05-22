@@ -4,17 +4,29 @@
 
 <div align="center"><img src="https://img.shields.io/badge/Version-1.0--alpha-brightgreen"> </div>
 
-## 🌐Introduction
+## 🌐 Introduction
 
-This project constructs and releases a video dataset for multi-granularity visual analysis of physical experiment processes, named PhysLab.
+PhysLab is comprehensively annotated and supports a wide range of computer vision research tasks. Benchmark results have been established for eight representative tasks: temporal action proposal, action classification, action alignment, action segmentation, object detection, occlusion detection, instance segmentation, and human-object interaction detection.
 
-The dataset is comprehensively annotated and supports a wide range of computer vision research tasks. Benchmark results have been established for eight representative tasks: temporal action proposal, action classification, action alignment, action segmentation, object detection, occlusion detection, instance segmentation, and human-object interaction detection.
+## 🔎 Temporal Annotations
 
-The PhysLab dataset contains 4 carefully constructed subsets, each of which supports a range of specific research areas. The specific introduction is as follows:
-
-- AR: 620 long videos of four physical experiments are recorded, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. This subset provides valuable resources for video behavior research such as action recognition, action segmentation, and behavior prediction.
+The PhysLab dataset contains 620 long videos of four physical experiments, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. It subset provides valuable resources for video temporal research such as temporal action proposal, action classification, action alignment, and action segmentation.
 
   <img src="img/Fig. 1.jpg" alt="Fig. 1" style="zoom:25%;" />
+
+### Statistics
+
+### Experimental Results.
+
+**temporal action proposal**
+
+**Action Classification**
+
+**temporal action proposal**
+
+**temporal action proposal**
+
+
 
 - DET: contains 4,500 experimental images, covering conventional boundary annotations of object instances, occlusion annotations, human-object interaction annotations, and scene map annotations.
 
@@ -28,7 +40,7 @@ The PhysLab dataset contains 4 carefully constructed subsets, each of which supp
 
   <img src="img/Fig. 2.jpg" alt="Fig. 2" style="zoom:15%;" />
 
-## Note
+## 📣 Note
 
 At present, we have completely completed the annotation of action classification, temporal action detection, action recognition, object detection, occlusion detection, human-object interaction detection, and instance segmentation related research. The annotation of visual text alignment is still in progress. We will release and provide benchmark performance in a timely manner.
 
