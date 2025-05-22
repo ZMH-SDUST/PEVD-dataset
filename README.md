@@ -6,11 +6,11 @@
 
 ## 🌐 Introduction
 
-**PhysLab is the first video dataset for visual interpretation of physics experimental processes!**
+⭐**PhysLab is the first video dataset for visual interpretation of physics experimental processes!**
 
-**We have comprehensively annotated PhysLab across multiple aspects to support a wide range of computer vision research!**
+⭐**We have comprehensively annotated PhysLab across multiple aspects to support a wide range of computer vision research!**
 
-**we have established benchmark results for eight fundamental vision tasks on PhysLab for reference and comparison!**
+⭐ **we have established benchmark results for eight fundamental vision tasks on PhysLab for reference and comparison!**
 
 ## 🔎 Temporal Annotations
 
