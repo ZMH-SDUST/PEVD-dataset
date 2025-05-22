@@ -6,7 +6,9 @@
 
 ## 🌐Introduction
 
-The project built and opened the industry's first physical experiment process video dataset that integrates multi-modal and multi-scenario applications - PhysLab. The dataset covers multiple key research areas such as behavior recognition, target detection, instance segmentation, human-computer interaction detection, scene graph generation, etc., and has carried out comprehensive and detailed data annotation in each field.
+This project constructs and releases a video dataset for multi-granularity visual analysis of physical experiment processes, named PhysLab.
+
+The dataset is comprehensively annotated and supports a wide range of computer vision research tasks. Benchmark results have been established for eight representative tasks: temporal action proposal, action classification, action alignment, action segmentation, object detection, occlusion detection, instance segmentation, and human-object interaction detection.
 
 The PhysLab dataset contains 4 carefully constructed subsets, each of which supports a range of specific research areas. The specific introduction is as follows:
 
