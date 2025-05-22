@@ -12,37 +12,39 @@
 
 ⭐ **we have established benchmark results for eight fundamental vision tasks on PhysLab for reference and comparison!**
 
-## 🔎 Temporal Annotations
-
-The PhysLab dataset contains 620 long videos of four physical experiments, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. It subset provides valuable resources for video temporal research such as temporal action proposal, action classification, action alignment, and action segmentation.
-
-  <img src="img/Fig. 1.jpg" alt="Fig. 1" style="zoom:25%;" />
+## 🔎 Temporal Parising
 
 ### Statistics
 
+The PhysLab dataset contains 620 long videos of four physical experiments, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. It subset provides valuable resources for video temporal research such as temporal action proposal, action classification, action alignment, and action segmentation.
+
+ <img src="img/Fig. 1.jpg" alt="Fig. 1" style="zoom:25%;" />
+
 ### Experimental Results.
 
-- **temporal action proposal**
+- **Temporal Action Proposal**
 
 - **Action Classification**
 
-- **temporal action proposal**
+- **Action Alignment & Action Segmentation**
 
-- **temporal action proposal**
+## 🔎 Spatial Parising
 
-
-
-- DET: contains 4,500 experimental images, covering conventional boundary annotations of object instances, occlusion annotations, human-object interaction annotations, and scene map annotations.
+### Statistics
 
   <img src="img/intro.jpg" alt="图4-1" style="zoom: 25%;" />
 
-- SG: Contains about 3097 images, which are annotated with fine-grained instance segmentation, involving pixel-level category information of human body parts of operating students and physical experimental equipment, supporting instance segmentation, semantic segmentation and other research.
-
   <img src="img/Fig. 3.jpg" alt="图4-1" style="zoom: 5%;" />
 
-- MM: Currently under development, the goal is to integrate text and image data of the experimental process to support multimodal research, including advanced visual tasks such as image description generation, text description generation, and cross-modal alignment.
+### Experimental Results.
 
-  <img src="img/Fig. 2.jpg" alt="Fig. 2" style="zoom:15%;" />
+- **Object Detection**
+
+- **Occlusion Detection**
+
+- **Instance Segmentation**
+
+- **Human-Object Interaction Detection**
 
 ## 📣 Note
 
