@@ -1,6 +1,6 @@
 # PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments
 
-<img src="img/logo.png" alt="logo" style="zoom: 45%;" />
+<img src="img/Logo.png" alt="Logo" style="zoom: 45%;" />
 
 <div align="center"><img src="https://img.shields.io/badge/Version-1.0--alpha-brightgreen"> </div>
 
