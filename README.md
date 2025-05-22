@@ -6,21 +6,21 @@
 
 ## 🌐 Introduction
 
-⭐ **PhysLab is the first video dataset for visual parising of physics experimental processes!**
+⭐ **PhysLab is the first video dataset for visual parsing of physics experimental processes!**
 
 ⭐ **We have comprehensively annotated PhysLab across multiple aspects to support a wide range of computer vision research!**
 
 ⭐ **we have established benchmark results for eight fundamental vision tasks on PhysLab for reference and comparison!**
 
-## 🔎 Temporal Parising
+## 🔎 Temporal Parsing
 
-### Statistics
+### 📝 Statistics
 
 The PhysLab dataset contains 620 long videos of four physical experiments, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. It subset provides valuable resources for video temporal research such as temporal action proposal, action classification, action alignment, and action segmentation.
 
  <img src="img/Fig. 1.jpg" alt="Fig. 1" style="zoom:25%;" />
 
-### Experimental Results.
+### 🔧 Experimental Results
 
 - **Temporal Action Proposal**
 
