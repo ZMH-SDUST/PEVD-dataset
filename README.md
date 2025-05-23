@@ -12,6 +12,17 @@
 
 🚀 **Benchmark results on eight core vision tasks are established for comparison and reference!**
 
+## 🌐 Experimental Instruction
+
+<p align="center">
+  <img src="img/ins.jpg" alt="Dataset Overview" width="400">
+    <img src="img/guidance.svg" alt="Dataset Overview" width="400">
+</p>
+
+<p align="center">
+  <img src="img/process figure.jpg" alt="Dataset Overview" width="400">
+</p>
+
 ## 🔎 Temporal Parsing
 
 ### 📸 Annotation Samples
