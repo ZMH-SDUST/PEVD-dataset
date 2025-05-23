@@ -26,7 +26,7 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
 
 <p align="center">
   <img src="img/Fig. 5-1.svg" alt="Dataset Overview" width="450">
-  <img src="img/Fig. 5-2.svg" alt="Dataset Overview" width="465">
+  <img src="img/Fig. 5-2.svg" alt="Dataset Overview" width="460">
 </p>
 
 ### 🔧 Experimental Results
