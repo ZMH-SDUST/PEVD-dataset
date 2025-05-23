@@ -16,7 +16,9 @@
 
 ### 📸 Annotation Samples
 
-<img src="img/Fig. 1.jpg" alt="Fig. 1" style="zoom:25%;" />
+<p align="center">
+  <img src="img/Fig. 1.jpg" alt="Dataset Overview" width="600">
+</p>
 
 ### 📝 Statistics
 
