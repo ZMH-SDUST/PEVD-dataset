@@ -23,6 +23,23 @@
   <img src="img/process figure.jpg" alt="Dataset Overview" width="400">
 </p>
 
+<p align="center">
+  <table>
+    <tr>
+      <!-- 左边的图 -->
+      <td align="center">
+        <img src="img/ins.jpg" alt="Dataset Overview" width="400">
+      </td>
+
+      <!-- 右边的两张图上下排列 -->
+      <td align="center">
+    <img src="img/guidance.svg" alt="Dataset Overview" width="400"></br>
+<img src="img/guidance.svg" alt="Dataset Overview" width="400">
+</td>
+    </tr>
+  </table>
+</p>
+
 ## 🔎 Temporal Parsing
 
 ### 📸 Annotation Samples
