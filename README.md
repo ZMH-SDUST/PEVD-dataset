@@ -24,6 +24,10 @@
 
 The PhysLab dataset contains 620 long videos of four physical experiments, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. It subset provides valuable resources for video temporal research such as temporal action proposal, action classification, action alignment, and action segmentation.
 
+<p align="center">
+  <img src="img/Fig. 5-1.svg" alt="Dataset Overview" width="1000">
+</p>
+
 ### 🔧 Experimental Results
 
 - **Temporal Action Proposal**
