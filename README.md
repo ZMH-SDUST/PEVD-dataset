@@ -8,9 +8,9 @@
 
 🚀 **PhysLab is the first video dataset for visual parsing of physics experimental processes!**
 
-🚀 **We have comprehensively annotated PhysLab across multiple aspects to support a wide range of computer vision research!**
+🚀 **We provide rich multi-level annotations to support diverse computer vision research!**
 
-🚀 **we have established benchmark results for eight fundamental vision tasks on PhysLab for reference and comparison!**
+🚀 **Benchmark results on eight core vision tasks are established for comparison and reference!**
 
 ## 🔎 Temporal Parsing
 
