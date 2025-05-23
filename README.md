@@ -17,7 +17,7 @@
 ### 📸 Annotation Samples
 
 <p align="center">
-  <img src="img/Fig. 1.jpg" alt="Dataset Overview" width="600">
+  <img src="img/Fig. 1.jpg" alt="Dataset Overview" width="1000">
 </p>
 
 ### 📝 Statistics
