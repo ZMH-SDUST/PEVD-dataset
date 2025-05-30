@@ -43,14 +43,20 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
 
 ### 🔧 Experimental Results
 
-- **Temporal Action Proposal**
-
 - **Action Classification**
 <p align="center">
   <img src="img/Table 1.png" alt="Dataset Overview" width="500">
 </p>
 
+- **Temporal Action Proposal**
+<p align="center">
+  <img src="img/Table 2.png" alt="Dataset Overview" width="500">
+</p>
+
 - **Action Alignment & Action Segmentation**
+<p align="center">
+  <img src="img/Table 3.png" alt="Dataset Overview" width="500">
+</p>
 
 ## 🔎 Spatial Parising
 
@@ -69,12 +75,21 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
 ### 🔧 Experimental Results
 
 - **Object Detection**
+<p align="center">
+  <img src="img/Table 4.png" alt="Dataset Overview" width="500">
+</p>
 
 - **Occlusion Detection**
 
 - **Instance Segmentation**
+<p align="center">
+  <img src="img/Table 5.png" alt="Dataset Overview" width="500">
+</p>
 
 - **Human-Object Interaction Detection**
+<p align="center">
+  <img src="img/Table 6.png" alt="Dataset Overview" width="500">
+</p>
 
 ## 📣 Note
 
