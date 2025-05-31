@@ -109,11 +109,11 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
 
 ## 📣 Note
 
-At present, we have completely completed the annotation of action classification, temporal action detection, action recognition, object detection, occlusion detection, human-object interaction detection, and instance segmentation related research. The annotation of visual text alignment is still in progress. We will release and provide benchmark performance in a timely manner.
+😆 At present, we have completely completed the annotation of action classification, temporal action detection, action recognition, object detection, occlusion detection, human-object interaction detection, scene graph generation and instance segmentation related research. The annotation of visual text alignment is still in progress. We will release and provide benchmark performance in a timely manner.
 
-At present, we are integrating multiple types of annotations and achieving accurate alignment between them. We have provided some samples for reference. The complete data is expected to be released within three months. Please continue to follow our dynamics.
+😄 At present, we are integrating multiple types of annotations and achieving accurate alignment between them. We have provided some samples for reference. The complete data is expected to be released within one month. Please continue to follow our dynamics.
 
-At present, we are supplementing data samples of six other experimental types and building collection devices for chemical and biological experiments.
+😉 At present, we are supplementing data samples of six other experimental types and building collection devices for chemical and biological experiments.
 
 ## 📥 Download
 
