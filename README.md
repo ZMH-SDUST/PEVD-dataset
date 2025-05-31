@@ -76,13 +76,13 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
   
 ### 📝 Statistics
 
-Object Detection: This subset comprises 6,842 images, annotated with 66,475 object instances across 38 target categories.
+**Object Detection:** This subset comprises 6,842 images, annotated with 66,475 object instances across 38 target categories.
 
-Occlusion Detection: A total of 7,363 images are used across four experimental settings (1,990; 2,457; 2,008; and 898 images, respectively), including 6,512 occluded positive samples and 851 unoccluded negative samples.
+**Occlusion Detection:** A total of 7,363 images are used across four experimental settings (1,990; 2,457; 2,008; and 898 images, respectively), including 6,512 occluded positive samples and 851 unoccluded negative samples.
 
-Instance Segmentation: This subset includes 3,059 images, covering 38 target categories and 16,437 annotated instances with pixel-level segmentation.
+**Instance Segmentation:** This subset includes 3,059 images, covering 38 target categories and 16,437 annotated instances with pixel-level segmentation.
 
-Interaction Detection: This subset consists of 4,500 images, this subset involves 34 object categories, 24 verb types, and 130 distinct interaction types, totaling 43,077 interaction instances.
+**Interaction Detection:** This subset consists of 4,500 images, this subset involves 34 object categories, 24 verb types, and 130 distinct interaction types, totaling 43,077 interaction instances.
 
 ### 🔧 Experimental Results
 
