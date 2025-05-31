@@ -68,7 +68,7 @@
 
 <p align="center">
   <img src="img/intro.jpg" alt="Dataset Overview" width="330">
-  <img src="img/obj.svg" alt="Dataset Overview" width="460">
+  <img src="img/obj.svg" alt="Dataset Overview" width="465">
 </p>
 
 <p align="center">
