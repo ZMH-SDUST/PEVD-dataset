@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- 由 Microsoft Visio, SVG Export 生成 obj.svg Page-1 -->
+<!-- 由 Microsoft Visio, SVG Export 生成 obj.svg 页-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="20.7825in" height="8.60267in"
-		viewBox="0 0 1496.34 619.392" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
-	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="20.2825in" height="8.40899in" viewBox="0 0 1460.34 605.447" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st7">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
@@ -23,18 +16,12 @@
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
-		<v:userDefs>
-			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
-		</v:userDefs>
+	<g>
 		<title>页-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<v:layer v:name="连接线" v:index="0"/>
-		<g id="shape46-1" v:mID="46" v:groupContext="shape" transform="translate(18.25,-18.25)">
+		<g id="shape46-1" transform="translate(0.25,-0.25)">
 			<title>工作表.46</title>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
-			<image x="0" y="388.192" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
+			<image x="0" y="374.246" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
 						iVBORw0KGgoAAAANSUhEUgAABAAAAAJACAIAAACc94OCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7C
 						ARUoSoAAAP+lSURBVHhe7P37v61Hdd/5omDMHV0QkkASuiGJm7gYu3M553Snk+PudNLppE+aECLLIAshy4IQLAuhOE77Tz/vpz41az97
 						XtZea+8NyO18f6jXqFGjRo2qGjVq1FxzrfWR/9cF/L/vN/4/A//jAf/T//Q/LeKf/bN/9r/9b//b97///R//+Md/+qd/+u///b//X/6X
@@ -4111,12 +4098,12 @@
 						oANdBzEBZi8qDXXFVUo9IQUvCE8ABVUVcrDpAPz973+XZ86VBtASNMD29vbh4aH+xjcHkB6K44PZK51AmysFukhEj/aAp1BAxTUKBJRe
 						DeRiOADSY6CX/TSJTYCB0JCxqeLC6U2/RD/8/PPPkv4a8TRncgcgfQIATDzpe4TH6upqJfM7cIEmV6/+H1golxbQYripAAAAAElFTkSu
 						QmCC"/>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
 		</g>
-		<g id="shape1-5" v:mID="1" v:groupContext="shape" transform="translate(18.25,-364.699)">
+		<g id="shape1-5" transform="translate(0.25,-368.754)">
 			<title>工作表.1</title>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
-			<image x="0" y="388.192" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
+			<image x="0" y="374.246" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
 						iVBORw0KGgoAAAANSUhEUgAABAAAAAJACAIAAACc94OCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7C
 						ARUoSoAAAP+lSURBVHhe7P1tm21LdtZ3ntJRqVQ6PBjLyBZCNg1YuI1FoRbtFt2AQfIFXPCG7/9p+hdxjzUycsZcK9fKXLnPPqf2/8Ws
 						mPEcI8aMcUdm7lPf/T+v8L9PJP631/zZn/3ZP/2n//Sf/JN/8o//8T/+h//wH/4P/8P/8N//9//93//7f1/if/wf/8c//uM//gf/4B/8
@@ -7718,12 +7705,12 @@
 						QSdCYQP4F7B5mgv0RDosgKvSD07XfQy9uN5UOMJgbvoLqnYHRsGMXzCeng0zfhe1Cm0+7QXAiccCShlnSjs8C6xO9rx6fRc8HaJGVdug
 						JlaYPgvdhybZic6M2zH0//0XAN8/4sHEmBgHs8Ruu8B0mvEIQxb96wXgLDZR/HQXAOfI9GM0A0BzeSyARHmdJd7GBUD1D2b8kfirv/r/
 						YtgFsBZALT0AAAAASUVORK5CYII="/>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
 		</g>
-		<g id="shape2-9" v:mID="2" v:groupContext="shape" transform="translate(542.659,-364.699)">
+		<g id="shape2-9" transform="translate(524.659,-368.754)">
 			<title>工作表.2</title>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
-			<image x="0" y="388.192" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
+			<image x="0" y="374.246" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
 						iVBORw0KGgoAAAANSUhEUgAABAAAAAJACAIAAACc94OCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7C
 						ARUoSoAAAP+lSURBVHhe7P0Lsy1Ndt71vt1yq2m1jcwxYGRbFj4CG5B8QBidm4+xZTAGgiD4/p/m/DKfMcfOVVlzrprr9u6W9j+iK7Ky
 						8jpyZI4n11r77Z/+mzv82Z/9WaVu/Nf/9X/9X03+i//iv/i/T/74j//4P/1P/9P/+D/+j/+T/+Q/+c8mf/RHf/SP/tE/8kkxVTz/6T/9
@@ -11471,12 +11458,12 @@
 						wIgfBr3OlBHFAi4xdAwgI8kyQDzxpI9N4Yy2OWQfAKdT5O4FYEvhNQ0HFG1KE2EKGPEDeNMuAA25DOxfAIZ/C4iOzpxBH+2sUcNgDNaC
 						kVQwMnYxZuIw1OJjRh/wAjCaP2N4P2FkLyA6BmIB4+ZQAwcZOJ4zzL0PaAI7vt4fp2WxYMQvYfR5wqL/f38BeGWwIzOG0/fEX/7l/w9d
 						av0P/ruLNwAAAABJRU5ErkJggg=="/>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
 		</g>
-		<g id="shape3-13" v:mID="3" v:groupContext="shape" transform="translate(1067.07,-364.699)">
+		<g id="shape3-13" transform="translate(1049.07,-368.754)">
 			<title>工作表.3</title>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
-			<image x="0" y="388.192" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
+			<image x="0" y="374.246" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
 						iVBORw0KGgoAAAANSUhEUgAABAAAAAJACAIAAACc94OCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7C
 						ARUoSoAAAP+lSURBVHhe7P0Nk21JdtZ5piqrlKSqipIaBKiFpBFC0AgGugChEUNDg1qCwTCMFzO+/0eZn/uzzroe2/c5cU683LxXir+Z
 						tnz79tfly309HhE365v/9xX+6T/9p57/5J/8kzX9R3/0R//HhT/8wz/83d/93b/zd/7O3/pbf8vzf5/89m//tsy///f//j/+x/9YLVXw
@@ -15068,62 +15055,56 @@
 						0k3UQIiFmE6hYjUbYj9jwSE4pw+cM9GNh0LzyF60SPw/ZPf+83/fI6GTlc4On5tF9vyzOMZVdhe8VvQq8p+ehZUcGdkh1lfIPv3t4e1f
 						Hx6KTVbZHy+CSbuJL5QxHMQSZS/a/sb0oeyPXyi23Ye0uWJP3RY1rLJ3cFt2dYvsjxfZvbbI7q9F9mYlKG877U7jh1C+V3rulwW8r+9n
 						cVWfia2UQ3vsvWV/8KZ0OUrQ1ukh9Lsbtwj7dN/Gm4zsEJ7eDQA+++z/ApuO5I4Y4reyAAAAAElFTkSuQmCC"/>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
 		</g>
-		<g id="shape9-17" v:mID="9" v:groupContext="shape" transform="translate(18.25,-508.646)">
+		<g id="shape9-17" transform="translate(0.25,-512.701)">
 			<title>工作表.9</title>
 			<desc>Hand Iron nugget Vernier caliper</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="102.756" cy="580.646" width="205.52" height="77.4925"/>
-			<rect x="0" y="541.9" width="205.512" height="77.4925" class="st1"/>
-			<text x="4" y="553.65" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Hand<v:newlineChar/><tspan x="4"
-						dy="1.2em" class="st3" v:langID="1033">Iron nugget<v:newlineChar/></tspan><tspan x="4" dy="1.2em"
-						class="st4" v:langID="1033">Vernier caliper</tspan></text>		</g>
-		<g id="shape10-22" v:mID="10" v:groupContext="shape" transform="translate(18.25,-128.801)">
+			<rect x="0" y="527.954" width="205.512" height="77.4925" class="st1"/>
+			<text x="4" y="539.7" class="st2">Hand <tspan x="4" dy="1.2em" class="st3">Iron nugget </tspan><tspan x="4" dy="1.2em"
+						class="st4">Vernier caliper</tspan></text>		</g>
+		<g id="shape10-22" transform="translate(0.25,-110.801)">
 			<title>工作表.10</title>
 			<desc>Hand &#38; Arm Metal cylinder Pulley Rope</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="120.472" cy="568.129" width="240.95" height="102.526"/>
-			<rect x="0" y="516.867" width="240.945" height="102.526" class="st1"/>
-			<text x="4" y="523.13" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>Hand &#38; Arm<v:newlineChar/><tspan x="4"
-						dy="1.2em" class="st3" v:langID="1033">Metal cylinder<v:newlineChar/></tspan><tspan x="4" dy="1.2em"
-						class="st4" v:langID="1033">Pulley<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st5">Rope</tspan></text>		</g>
-		<g id="group25-28" transform="translate(442.797,-459.835)" v:mID="25" v:groupContext="group">
+			<rect x="0" y="502.921" width="240.945" height="102.526" class="st1"/>
+			<text x="4" y="509.18" class="st2">Hand &#38; Arm <tspan x="4" dy="1.2em" class="st3">Metal cylinder </tspan><tspan
+						x="4" dy="1.2em" class="st4">Pulley </tspan><tspan x="4" dy="1.2em" class="st5">Rope</tspan></text>		</g>
+		<g id="group25-28" transform="translate(424.797,-463.889)">
 			<title>工作表.25</title>
-			<g id="shape26-29" v:mID="26" v:groupContext="shape">
+			<g id="shape26-29">
 				<title>工作表.26</title>
-				<path d="M86.34 598.93 L43.17 578.46 L43.17 589.83 L0 589.83 L0 608.02 L43.17 608.02 L43.17 619.39 L86.34 598.93 Z"
+				<path d="M86.34 584.98 L43.17 564.52 L43.17 575.89 L0 575.89 L0 594.08 L43.17 594.08 L43.17 605.45 L86.34 584.98 Z"
 						class="st6"/>
 			</g>
 		</g>
-		<g id="group39-31" transform="translate(967.207,-459.835)" v:mID="39" v:groupContext="group">
+		<g id="group39-31" transform="translate(949.207,-463.889)">
 			<title>工作表.39</title>
-			<g id="shape40-32" v:mID="40" v:groupContext="shape">
+			<g id="shape40-32">
 				<title>工作表.40</title>
-				<path d="M86.34 598.93 L43.17 578.46 L43.17 589.83 L0 589.83 L0 608.02 L43.17 608.02 L43.17 619.39 L86.34 598.93 Z"
+				<path d="M86.34 584.98 L43.17 564.52 L43.17 575.89 L0 575.89 L0 594.08 L43.17 594.08 L43.17 605.45 L86.34 584.98 Z"
 						class="st6"/>
 			</g>
 		</g>
-		<g id="group42-34" transform="translate(442.797,-113.385)" v:mID="42" v:groupContext="group">
+		<g id="group42-34" transform="translate(424.797,-95.3853)">
 			<title>工作表.42</title>
-			<g id="shape43-35" v:mID="43" v:groupContext="shape">
+			<g id="shape43-35">
 				<title>工作表.43</title>
-				<path d="M86.34 598.93 L43.17 578.46 L43.17 589.83 L0 589.83 L0 608.02 L43.17 608.02 L43.17 619.39 L86.34 598.93 Z"
+				<path d="M86.34 584.98 L43.17 564.52 L43.17 575.89 L0 575.89 L0 594.08 L43.17 594.08 L43.17 605.45 L86.34 584.98 Z"
 						class="st6"/>
 			</g>
 		</g>
-		<g id="group44-37" transform="translate(967.207,-117.463)" v:mID="44" v:groupContext="group">
+		<g id="group44-37" transform="translate(949.207,-99.4626)">
 			<title>工作表.44</title>
-			<g id="shape45-38" v:mID="45" v:groupContext="shape">
+			<g id="shape45-38">
 				<title>工作表.45</title>
-				<path d="M86.34 598.93 L43.17 578.46 L43.17 589.83 L0 589.83 L0 608.02 L43.17 608.02 L43.17 619.39 L86.34 598.93 Z"
+				<path d="M86.34 584.98 L43.17 564.52 L43.17 575.89 L0 575.89 L0 594.08 L43.17 594.08 L43.17 605.45 L86.34 584.98 Z"
 						class="st6"/>
 			</g>
 		</g>
-		<g id="shape47-40" v:mID="47" v:groupContext="shape" transform="translate(542.659,-18.25)">
+		<g id="shape47-40" transform="translate(524.659,-0.25)">
 			<title>工作表.47</title>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
-			<image x="0" y="388.192" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
+			<image x="0" y="374.246" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
 						iVBORw0KGgoAAAANSUhEUgAABAAAAAJACAIAAACc94OCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7C
 						ARUoSoAAAP+lSURBVHhe7P37v61Hdd/5ImOZi0AIAUJCEghdkYTAhDjOOel0ujuJj3Ppk06nbYwFxiCEkBUaYyFkTC7+08/7qU/N2s+e
 						l7XX2nsD8ul8f6jXqFGjRo2qGjVq1FxzrfWh//f18M8OmPUD5386oCrM+p1AkhLE//w//8//2//2v/2bf/Nv/q//6//6i7/4iz//8z9H
@@ -19492,12 +19473,12 @@
 						Shft+00yAMD1Jjo2gA+vQscOYQAUtdYYAAFKDs0nAwDJCB0bYHUGQAjTRqKu/NE6glL8NZ1n1qN4L3Xl8qjIrKig2q8g62MdrzGJfzKU
 						6sXJbYamoatCXUTncLyqtjS5eSZcov+pp546W+Bs4g/1zymWpYesV1AeUpVBch+PwC8aO6B6EEjZAo0lsPYXjz/+/wM8x3eFU3cSuQAA
 						AABJRU5ErkJggg=="/>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
 		</g>
-		<g id="shape48-44" v:mID="48" v:groupContext="shape" transform="translate(1067.07,-22.3273)">
+		<g id="shape48-44" transform="translate(1049.07,-4.32728)">
 			<title>工作表.48</title>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
-			<image x="0" y="388.192" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
+			<image x="0" y="374.246" width="411.024" height="231.201" preserveAspectRatio="none" xlink:href="data:image/png;base64,
 						iVBORw0KGgoAAAANSUhEUgAABAAAAAJACAIAAACc94OCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7C
 						ARUoSoAAAP+lSURBVHhe7P3/z+XHlR/4kaI4pESRbH5rfm1+bbLZpEhKomfsHe/YE3ssj+3xeBwNRVEURbVaVJPSaJpks9WiOJ4Rkqyz
 						Gxi7C+xikewPQZAACRDkByNYJECwCPKn5VX1rnu6nvu59z73ebqbbI3njUbh1KlTp05VnTp16j736eeW3782/MMVRn3F+c/3QOQRf/iH
@@ -23832,7 +23813,7 @@
 						uhUQ7qE2ALIxIBugzwBoPQskG+Dz/ftrAyBuAmADtP4ULG4CyBKQARDqX8aAbgXIoz8JJgkz4HenT1Nk586dMzMzMgD0TnBmjAHADKJP
 						2SbYMtg7LpU3gNnxEQDEs4mwd9DdeOh3BZcCtirh8LIbAByCVI35yMYpy7MA1GA1HhTMODlRBJohSIU0hh5h9aPjkPv1r/RI+kvo19/u
 						q8cjSZABPDJGRCmhPOBwH6+//v8DqVqrSLcMF20AAAAASUVORK5CYII="/>
-			<rect v:rectContext="foreign" x="0" y="388.192" width="411.024" height="231.201" class="st1"/>
+			<rect x="0" y="374.246" width="411.024" height="231.201" class="st1"/>
 		</g>
 	</g>
 </svg>
