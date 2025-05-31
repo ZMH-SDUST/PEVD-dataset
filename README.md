@@ -73,6 +73,10 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
  <p align="center">
   <img src="img/Fig. 3.jpg" alt="Dataset Overview" width="600">
 </p>
+
+<p align="center">
+  <img src="img/seg.jpg" alt="Dataset Overview" width="600">
+</p>
   
 ### 📝 Statistics
 
@@ -92,9 +96,7 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
 </p>
 
 - **Occlusion Detection**
-<p align="center">
-  <img src="img/seg.jpg" alt="Dataset Overview" width="600">
-</p>
+
 - **Instance Segmentation**
 <p align="center">
   <img src="img/Table 5.png" alt="Dataset Overview" width="400">
