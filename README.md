@@ -93,6 +93,9 @@
 </p>
 
 - **Occlusion Detection**
+<p align="center">
+  <img src="img/issample.svg" alt="Dataset Overview" width="800">
+</p>
 
 - **Instance Segmentation**
 <p align="center">
