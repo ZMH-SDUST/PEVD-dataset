@@ -67,8 +67,8 @@
 ### 📸 Annotation Samples
 
 <p align="center">
-  <img src="img/intro.jpg" alt="Dataset Overview" width="350">
-  <img src="img/obj.svg" alt="Dataset Overview" width="450">
+  <img src="img/intro.jpg" alt="Dataset Overview" width="330">
+  <img src="img/obj.svg" alt="Dataset Overview" width="470">
 </p>
 
 <p align="center">
