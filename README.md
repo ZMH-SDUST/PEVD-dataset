@@ -28,7 +28,7 @@
 
 ### 📝 Statistics
 
-The PhysLab dataset contains 620 long videos of four physical experiments, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. It subset provides valuable resources for video temporal research such as temporal action proposal, action classification, action alignment, and action segmentation.
+**The PhysLab dataset contains 620 long videos of four physical experiments, covering 3873 action clips of 32 types of actions, with an average length of 20 seconds per clip and a video frame rate of 30FPS. It subset provides valuable resources for video temporal research such as temporal action proposal, action classification, action alignment, and action segmentation.**
 
 <p align="center">
   <img src="img/Fig. 5-1.svg" alt="Dataset Overview" width="400">
@@ -77,13 +77,13 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
   
 ### 📝 Statistics
 
-**Object Detection:** This subset comprises 6,842 images, annotated with 66,475 object instances across 38 target categories.
+**Object Detection: This subset comprises 6,842 images, annotated with 66,475 object instances across 38 target categories.**
 
-**Occlusion Detection:** A total of 7,363 images are used across four experimental settings (1,990; 2,457; 2,008; and 898 images, respectively), including 6,512 occluded positive samples and 851 unoccluded negative samples.
+**Occlusion Detection: A total of 7,363 images are used across four experimental settings (1,990; 2,457; 2,008; and 898 images, respectively), including 6,512 occluded positive samples and 851 unoccluded negative samples.**
 
-**Instance Segmentation:** This subset includes 3,059 images, covering 38 target categories and 16,437 annotated instances with pixel-level segmentation.
+**Instance Segmentation: This subset includes 3,059 images, covering 38 target categories and 16,437 annotated instances with pixel-level segmentation.**
 
-**Interaction Detection:** This subset consists of 4,500 images, this subset involves 34 object categories, 24 verb types, and 130 distinct interaction types, totaling 43,077 interaction instances.
+**Interaction Detection: This subset consists of 4,500 images, this subset involves 34 object categories, 24 verb types, and 130 distinct interaction types, totaling 43,077 interaction instances.**
 
 ### 🔧 Experimental Results
 
@@ -115,9 +115,10 @@ The PhysLab dataset contains 620 long videos of four physical experiments, cover
 ## 📥 Download
 
 ## 👪 Team
+**The dataset was developed with contributions from Qingtian Zeng, Yongping Miao, Minghao Zou, Shangkun Liu, Shuang Chen, Xirui Jia, Xingkai Bai, Aihang Jiang, Zhenkai Zhao, Zilong Wang, and over twenty additional participants, whose efforts are gratefully acknowledged.**
 
 ## ⚠️ Disclaimer
+**The PhysLab dataset provided by this project is collected and annotated based on specific experimental scenarios and methods, but the dataset may contain a certain degree of deviation, incompleteness or erroneous information.**
 
-The physical experiment dataset provided by this project is collected and annotated based on specific experimental scenarios and methods, but the dataset may contain a certain degree of deviation, incompleteness or erroneous information. Therefore, this dataset is for reference and research purposes only, and its absolute accuracy and applicability are not guaranteed. The results of analysis, modeling or other research activities using this dataset may contain errors or deviations and cannot be directly used for practical applications or decision-making. This project is not responsible for any consequences or losses arising from the use of the dataset. Users should bear their own risks when using the dataset and conduct necessary verification and validation of the data and research results.
 
 
