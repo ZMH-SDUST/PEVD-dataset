@@ -40,7 +40,6 @@
   <img src="img/Fig. 6-2.svg" alt="Dataset Overview" width="400">
 </p>
 
-
 ### 🔧 Experimental Results
 
 - **Action Classification**
@@ -119,7 +118,7 @@
 
 **We are currently in the process of aligning and integrating multi-source data. Once the integration is complete, the full dataset—including all video/image data and corresponding annotation files—will be made available via Google Cloud and Baidu Cloud download links. In the meantime, sample data has been temporarily provided in the project repository for reference. Please refer to the <ins>***samples***</ins> series folder for access to these examples.**
 
-The instance segmentation subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1EKOKTwzVtrGhjgalIfx8OXrCffxea5Cr/view?usp=sharing)!
+- **The instance segmentation subset of PhysLab can be download at [Here](https://drive.google.com/file/d/1EKOKTwzVtrGhjgalIfx8OXrCffxea5Cr/view?usp=sharing)!**
 
 ## 👪 Team
 **The dataset was developed with contributions from Qingtian Zeng, Yongping Miao, Hantao Liu, Wei Zhou, Minghao Zou, Shangkun Liu, Shuang Chen, Xirui Jia, Xingkai Bai, Aihang Jiang, Zhenkai Zhao, Zilong Wang, and over twenty additional participants, whose efforts are gratefully acknowledged.**
