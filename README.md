@@ -126,6 +126,7 @@
 **The dataset was developed with contributions from Qingtian Zeng, Yongping Miao, Hantao Liu, Wei Zhou, Minghao Zou, Shangkun Liu, Shuang Chen, Xirui Jia, Xingkai Bai, Aihang Jiang, Zhenkai Zhao, Zilong Wang, and over twenty additional participants, whose efforts are gratefully acknowledged.**
 
 ## 📄 Citation
+```bibtex
 @inproceedings{minghao2025phy,
           title={PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments},
           author={Minghao Zou, Qingtian Zeng, Yongping Miao, Shangkun Liu, Zilong Wang, Hantao Liu, and Wei Zhou},
