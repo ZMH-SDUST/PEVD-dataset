@@ -125,6 +125,15 @@
 ## 👪 Team
 **The dataset was developed with contributions from Qingtian Zeng, Yongping Miao, Hantao Liu, Wei Zhou, Minghao Zou, Shangkun Liu, Shuang Chen, Xirui Jia, Xingkai Bai, Aihang Jiang, Zhenkai Zhao, Zilong Wang, and over twenty additional participants, whose efforts are gratefully acknowledged.**
 
+## 📄 Citation
+@inproceedings{minghao2025phy,
+          title={PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments},
+          author={Minghao Zou, Qingtian Zeng, Yongping Miao, Shangkun Liu, Zilong Wang, Hantao Liu, and Wei Zhou},
+          booktitle={ACM International Conference on Multimedia (ACM MM)},
+          year={2025},
+          note={Submitted}
+        }
+
 ## ⚠️ Disclaimer
 **The PhysLab dataset provided by this project is collected and annotated based on specific experimental scenarios and methods, but the dataset may contain a certain degree of deviation, incompleteness or erroneous information.**
 
