@@ -134,6 +134,16 @@
           year={2025},
           note={Submitted}
         }
+
+@misc{zou2025physlabbenchmarkdatasetmultigranularity,
+      title={PhysLab: A Benchmark Dataset for Multi-Granularity Visual Parsing of Physics Experiments}, 
+      author={Minghao Zou and Qingtian Zeng and Yongping Miao and Shangkun Liu and Zilong Wang and Hantao Liu and Wei Zhou},
+      year={2025},
+      eprint={2506.06631},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.06631}, 
+}
 ```
 
 ## ⚠️ Disclaimer
