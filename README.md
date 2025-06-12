@@ -82,7 +82,7 @@
 
 - **Instance Segmentation. This subset includes 3,059 images, covering 38 target categories and 16,437 annotated instances with pixel-level segmentation.**
 
-- **Interaction Detection. This subset consists of 4,500 images, this subset involves 34 object categories, 24 verb types, and 130 distinct interaction types, totaling 43,077 interaction instances.**
+- **Interaction Detection. This subset consists of 4,500 images, this subset involves 34 object categories, 24 verb types, and 130 distinct interaction types, totaling 45,902 interaction instances.**
 
 ### 🔧 Experimental Results
 
