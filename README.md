@@ -12,7 +12,9 @@
 
 🚀 **Benchmark results on eight core vision tasks are established for comparison and reference!**
 
-## 🌐 Experimental Instruction
+⭐ **If you find our dataset beneficial to your research, please kindly star the repository and cite our paper.**
+
+## 🎓 Experimental Instruction
 
 <p align="center">
   <img src="img/ins.svg" alt="Dataset Overview" width="1000">
